@@ -1,0 +1,2 @@
+20220927	09:47:54	3f36b046-3b70-45ba-aec6-b6adf563b212	Log event emitted!
+20220927	15:50:07	2fcd3c97-1d05-467a-a4cc-25d4cc87c8c9	Log event emitted!
